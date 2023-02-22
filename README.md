@@ -7,6 +7,9 @@ This is the repository for submission for WIF3007 Design Patterns project assign
 3. Facade Design Pattern
 4. Strategy Design Pattern
 
+## GUI NFT Museum
+![image](https://user-images.githubusercontent.com/68151938/220617740-b628a08c-ad01-40e5-b13b-33c0a9b6c810.png)
+
 ## State Design Pattern
 ![image](https://user-images.githubusercontent.com/68151938/220616053-4f19e802-d559-40c3-8bc0-3b7acb6cbbf3.png)
 
@@ -18,6 +21,3 @@ This is the repository for submission for WIF3007 Design Patterns project assign
 
 ## Strategy Design Pattern
 ![image](https://user-images.githubusercontent.com/68151938/220617543-1b0b9158-7660-48b2-8c01-73a76e09cdd2.png)
-
-## GUI NFT Museum
-![image](https://user-images.githubusercontent.com/68151938/220617740-b628a08c-ad01-40e5-b13b-33c0a9b6c810.png)
