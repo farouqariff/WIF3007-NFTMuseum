@@ -1,7 +1,7 @@
 # WIF3007 Assignment: NFT Museum
 
 ## Introduction
-This is the repository for submission for WIF3007 Design Patterns project assignment for Semester 1 2021/2022 session. The project is required to design four types of design pattern to before implementing into the system as code which are:
+This is the repository for submission for WIF3007 Design Patterns project assignment for Semester 1 2021/2022 session. The project is required to design four types of design pattern architecture before implementing into the system as code which are:
 1. State Design Pattern
 2. Decorator Design Pattern
 3. Facade Design Pattern
